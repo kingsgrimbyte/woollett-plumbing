@@ -1,0 +1,81 @@
+{
+  "metaTitle": "All Plumbing Services in [location]",
+  "metaDescription": "Trusted local plumbing services for fast repairs, installations, and inspections. Licensed techs, fair pricing, emergency help — call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_bannerImage_Rqcr3nC2N.jpg",
+  "h1Banner": "All Plumbing Services in [location]",
+  "p1Banner": "Trusted local plumbing services for fast repairs, installations, and inspections. Licensed techs, fair pricing, emergency help — call [phone]",
+  "serviceTitle": "",
+  "serviceData": {
+    "title": "Reliable Plumbing Services for Every Job",
+    "p": "Woollett Plumbing is licensed, insured, and backed by over 15 years of hands-on experience serving homeowners and businesses in [location]. We provide clear estimates, punctual service, and a satisfaction guarantee on every bathtub installation, water heater repair, plumbing inspection, and more.",
+    "lists": [
+      {
+        "title": "Residential Plumbing Services in [location]",
+        "description": "Call Us At [phone]. Trusted residential plumbing for homeowners — installations, repairs, and preventive maintenance.",
+        "h2": "Complete Home Plumbing Care",
+        "p2": "From faucet installation to water heater repair and full plumbing replacement, Woollett Plumbing handles home systems with care. We focus on long-lasting solutions, clean work areas, and clear pricing. Call Us At [phone]",
+        "h3": "Common Residential Jobs",
+        "p3": "Kitchen and bathroom updates | Bathtub installation | Faucet repair | Toilet installation | Sink repair | Water pipe repair",
+        "seoContent": "<h2>Residential Plumbing Services</h2><p>Our residential plumbing team specializes in dependable, code-compliant work for every room in your house. We install and replace fixtures like sinks, faucets, bathtubs, showers, and toilets, and we troubleshoot and repair drains, garbage disposals, and water heaters. Routine plumbing inspection and preventative maintenance help avoid unexpected failures and costly water damage. When you call Woollett Plumbing, expect respectful technicians, accurate estimates, and durable results. Call Us At [phone] for fast scheduling.</p>",
+        "slug": "residential-plumbing-services",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_serviceData_lists_0_imageUrl_V0PkcNjYo.jpg"
+      },
+      {
+        "title": "Emergency Plumbing & Repairs in [location]",
+        "description": "Call Us At [phone]. 24/7 emergency plumbing response for leaks, burst pipes, and urgent repairs.",
+        "h2": "Fast Response When It Matters Most",
+        "p2": "Burst pipe? No hot water? Our emergency team responds quickly to minimize damage and restore service. Available for immediate water pipe repair, toilet repair, and more. Call Us At [phone]",
+        "h3": "Emergency Services Include",
+        "p3": "Burst pipe repair | Major leaks | Failed water heaters | Overflowing toilets | Severe clogs",
+        "seoContent": "<h2>Emergency Plumbing & Repairs</h2><p>Emergencies can’t wait. Woollett Plumbing offers swift emergency plumbing repair to stop leaks, secure damaged pipes, and restore water service. Our technicians carry common parts and diagnostic tools to make permanent repairs or temporary mitigations until a planned replacement. For emergency faucet repair, drain repair, or garbage disposal repair, our crews work efficiently to protect your home and belongings. Keep our number handy and call [phone] for urgent help.</p>",
+        "slug": "emergency-plumbing-repairs",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_serviceData_lists_1_imageUrl_Fm9_9C2WA.jpg"
+      },
+      {
+        "title": "Commercial Plumbing Services in [location]",
+        "description": "Call Us At [phone]. Commercial plumbing tailored for businesses, property managers, and multi-unit buildings.",
+        "h2": "Solutions Built for Business",
+        "p2": "We support retail, office, and multi-family properties with reliable installs, fast repairs, and scheduled maintenance to minimize downtime. Call Us At [phone]",
+        "h3": "Commercial Capabilities",
+        "p3": "Large-scale installations | Drain installation | Plumbing installation or replacement | Maintenance plans | Fast repair response",
+        "seoContent": "<h2>Commercial Plumbing Services</h2><p>Woollett Plumbing understands the unique needs of businesses: minimizing disruption, meeting building codes, and delivering durable work. We perform commercial drain installation, plumbing installation or replacement, toilet installation, and routine plumbing inspection and maintenance. Our team coordinates with property managers and contractors to keep facilities operational and customers satisfied. For commercial bids or service agreements, call [phone].</p>",
+        "slug": "commercial-plumbing-services",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_serviceData_lists_2_imageUrl_TXGWK11aM.jpg"
+      },
+      {
+        "title": "Plumbing Installations & Replacements in [location]",
+        "description": "Call Us At [phone]. Professional installations for tubs, showers, sinks, toilets, and water heaters with precise fits and finishes.",
+        "h2": "Installations That Last",
+        "p2": "Whether you're remodeling or replacing worn systems, we handle seam-to-seam installations including bathtub installation, shower installation, sink installation, and water heater installation. Call Us At [phone]",
+        "h3": "Expert Installation Services",
+        "p3": "Fixture upgrades | Complete repiping | Water heater installation | Faucet installation | Drain installation",
+        "seoContent": "<h2>Plumbing Installations & Replacements</h2><p>Upgrading fixtures boosts comfort and efficiency. Our licensed installers perform bathtub installation, shower installation, sink installation, faucet installation, and toilet installation with precise plumbing connections and water-tight seals. For systems nearing the end of their life, we recommend planned plumbing installation or replacement to avoid emergency failures. We also size and install water heater systems for consistent hot water delivery. Each installation includes leak testing and customer walkthrough to confirm satisfaction. Call [phone] for an on-site estimate.</p>",
+        "slug": "plumbing-installations-replacements",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_serviceData_lists_3_imageUrl_GAtIS-PS9.jpg"
+      },
+      {
+        "title": "Plumbing Repairs & Maintenance in [location]",
+        "description": "Call Us At [phone]. Skilled repairs and maintenance plans to keep plumbing systems running efficiently and reliably.",
+        "h2": "Repair Work Done Right",
+        "p2": "From faucet repair and drain repair to water pipe repair and garbage disposal repair, our technicians diagnose and fix issues to restore normal operation. Call Us At [phone]",
+        "h3": "Maintenance Keeps Costs Down",
+        "p3": "Leak repairs | Drain cleaning | Preventive inspections | Appliance service | Seasonal maintenance",
+        "seoContent": "<h2>Plumbing Repairs & Maintenance</h2><p>Regular maintenance and timely repairs extend the life of your plumbing. Woollett Plumbing offers faucet repair, drain repair, bathtub repair, shower repair, sink repair, toilet repair, and water heater repair. We use modern diagnostic tools to locate hidden leaks and address root causes, not just symptoms. Our maintenance services include drain cleaning, valve checks, and winterization to prevent freeze damage. Ask about our service plans to schedule regular plumbing inspection and prioritized response for repairs. Call [phone] to set up service.</p>",
+        "slug": "plumbing-repairs-maintenance",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_serviceData_lists_4_imageUrl_yWFTNloij.jpg"
+      },
+      {
+        "title": "Plumbing Inspections & Diagnostics in [location]",
+        "description": "Call Us At [phone]. Comprehensive plumbing inspections for buyers, sellers, and routine maintenance to catch issues early.",
+        "h2": "Know Your System's Condition",
+        "p2": "Our plumbing inspection services use camera diagnostics and pressure testing to find clogs, pipe damage, or potential failures before they become emergencies. Call Us At [phone]",
+        "h3": "Inspection Benefits",
+        "p3": "Real estate inspections | Preventive checks | Leak detection | Sewer camera inspections | Pre-purchase plumbing reports",
+        "seoContent": "<h2>Plumbing Inspections & Diagnostics</h2><p>Accurate diagnostics save time and money. We perform thorough plumbing inspections for real estate transactions, annual maintenance, and when troubleshooting recurring problems. Services include sewer and drain camera inspections, pressure and leak testing, and full-system assessments. After inspection we provide a clear, prioritized plan of recommended repairs or replacements. For trustworthy, professional plumbing inspection, call Woollett Plumbing at [phone].</p>",
+        "slug": "plumbing-inspections-diagnostics",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_servicePage_serviceData_lists_5_imageUrl_jNk0yZBeD.jpg"
+      }
+    ]
+  }
+}

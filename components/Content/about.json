@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Emergency Plumber in [location]",
+  "metaDescription": "Trusted plumbing experts delivering reliable repairs, installations, and emergency service with local care and clear pricing - call us now [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_about_bannerImage_pjGMvH86l.jpg",
+  "h1Banner": "Emergency Plumber in [location]",
+  "p1Banner": "Trusted plumbing experts delivering reliable repairs, installations, and emergency service with local care and clear pricing - call us now [phone]",
+  "p2": "Woollett Plumbing began as a one-truck operation founded by a journeyman plumber who believed quality work and honest pricing should be the standard. Over the years we've grown into a locally owned team focused on durable repairs, efficient installations, and trusted emergency response while keeping a personal, respectful approach to every customer. Our commitment is simple: diagnose clearly, fix it right, and treat your home or business with care.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/woollettplumbing_com/Plumbing_Services_about_h2Image_P0CxUNc50.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver prompt, dependable plumbing solutions that protect homes and businesses, emphasizing safety, transparent pricing, and repairs built to last."
+    },
+    {
+      "title": "Our Vision",
+      "description": "We aim to be the go-to plumbing team in our community by combining skilled technicians, modern diagnostics, and customer-first service to make plumbing problems one less thing to worry about."
+    },
+    {
+      "title": "Our Values",
+      "description": "Our difference is experience and professionalism: licensed plumbers with decades of combined service, specialized skills in water heaters, sewer repair, and leak detection, and a community-first attitude that means clear estimates, respectful crews, and a warranty-backed approach."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide residential and commercial plumbing services across [location], including emergency repairs, leak detection, water heater repair and replacement, sewer and drain services, repiping, and preventative maintenance. Call [phone] to schedule service, request a free estimate, or get fast emergency help \u2014 we answer quickly and stand behind our workmanship.",
+    "linkText": "Check our Plumbing service locations here.",
+    "link": "/locations"
+  }
+}
